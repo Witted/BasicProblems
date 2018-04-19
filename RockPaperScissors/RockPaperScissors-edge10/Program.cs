@@ -1,21 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using RockPaperScissors.Players;
+
 namespace RockPaperScissors
 {
     public class Program
     {
-        public static string playerChoice = "";
+        public static string playerChoice = "";        
 
-        
-
-        static void Main(string[] args) {
+        public static void Main(string[] args) {
             
             Dialog.getIntroDialog();
 
             var playerChoice = Console.ReadLine();
-
             
             while (GameState.gamesPlayed != GameState.numberOfGames)
             {
@@ -37,10 +32,8 @@ namespace RockPaperScissors
                 Console.ReadLine();
                 
             }
-
             Console.Write("Thanks for playing");
             Console.ReadLine();
-
         }
     }
 }
