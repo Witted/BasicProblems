@@ -1,0 +1,7 @@
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\bin\Debug\RockPaperScissors-edge10.exe.config
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\bin\Debug\RockPaperScissors-edge10.exe
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\bin\Debug\RockPaperScissors-edge10.pdb
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\obj\Debug\RockPaperScissors-edge10.exe
+D:\Coding Projects\Basic Problems\RockPaperScissors\RockPaperScissors-edge10\obj\Debug\RockPaperScissors-edge10.pdb
